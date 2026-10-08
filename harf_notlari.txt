@@ -1,0 +1,5 @@
+Ogrenci1 _ Ortalama: 47.00 _ Durum: Kaldi
+Ogrenci2 _ Ortalama: 41.67 _ Durum: Kaldi
+Ogrenci3 _ Ortalama: 52.00 _ Durum: Gecti
+Ogrenci4 _ Ortalama: 43.33 _ Durum: Kaldi
+Ogrenci5 _ Ortalama: 62.33 _ Durum: Gecti
